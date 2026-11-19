@@ -16,7 +16,7 @@ An interactive Power BI dashboard designed to analyze BMW's worldwide sales perf
 
 Sales Performance: Track total revenue and sales trends.
 
-Regional Analysis: Compare dealership performance across US locations.
+Regional Analysis: Compare dealership performance across worldwide locations.
 
 Vehicle Analysis: Explore sales by model and body style.
 
