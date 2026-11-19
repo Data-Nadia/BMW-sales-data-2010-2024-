@@ -53,6 +53,7 @@ Data Modeling
 Strategic Thinking
 
 ## 📷 Dashboard Preview
+(https://github.com/Data-Nadia/BMW-sales-data-2010-2024-/blob/c22d712f33928d625aa9ecb775f1b00860a568e3/BMW%20Dashboard.PNG)
 ![BMW Sales Dashboard](Screenshots/dashboard_overview.png)
 
 
