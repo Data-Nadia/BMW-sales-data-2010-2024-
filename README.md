@@ -54,6 +54,7 @@ Strategic Thinking
 
 ## 📷 Dashboard Preview
 <img width="960" height="510" alt="BMWDashboard PNG" src="https://github.com/user-attachments/assets/327af736-ef50-4e5b-8f3c-b2329fe0a7c3" />
-![BMW Sales Dashboard](Screenshots/dashboard_overview.png)
+![BMW Sales Dashboard](Screenshots/dashboard_overview.png)  
+<img width="952" height="512" alt="BMW Star schema" src="https://github.com/user-attachments/assets/9007e0b0-3351-46cc-8114-19b2ebbb0d0b" />
 
 
